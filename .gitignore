@@ -1,3 +1,15 @@
+# Custom files
+
+notebooks
+models/*
+examples/data/*
+data/*
+!data/README.md
+!models/README.md
+
+.vscode/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +139,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data/
